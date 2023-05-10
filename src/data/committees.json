@@ -1,0 +1,112 @@
+[
+    {
+        "sectionTitle": "Digital Marketing",
+        "committees": [
+            {
+                "name": "Human resources",
+                "nameUrl": "human-resources",
+                "image": "./assets/committees-icons/hr.png"
+            },
+            {
+                "name": "Logistics",
+                "nameUrl": "logistics",
+                "image": "./assets/committees-icons/logistics.png"
+            },
+            {
+                "name": "PR",
+                "nameUrl": "pr",
+                "image": "./assets/committees-icons/pr.png"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "Media",
+        "committees": [
+            {
+                "name": "Graphic Design",
+                "nameUrl": "graphic-design",
+                "image": "./assets/committees-icons/graphic-design.png"
+            },
+            {
+                "name": "Motion Graphics",
+                "nameUrl": "motion-graphics",
+                "image": "./assets/committees-icons/motion-graphics.png"
+            },
+            {
+                "name": "Video editing",
+                "nameUrl": "video-editing",
+                "image": "./assets/committees-icons/video-editing.png"
+            },
+            {
+                "name": "Photography",
+                "nameUrl": "photography",
+                "image": "./assets/committees-icons/photography.png"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "Techoons",
+        "committees": [
+            {
+                "name": "Java",
+                "nameUrl": "java",
+                "image": "./assets/committees-icons/java.png"
+            },
+            {
+                "name": "Python",
+                "nameUrl": "python",
+                "image": "./assets/committees-icons/python.png"
+            },
+            {
+                "name": "Artificial intelligence",
+                "nameUrl": "artificial-intelligence",
+                "image": "./assets/committees-icons/artificial-intelligence.png"
+            },
+            {
+                "name": "Embedded system",
+                "nameUrl": "embedded-system",
+                "image": "./assets/committees-icons/embedded-system.png"
+            },
+            {
+                "name": "Networks",
+                "nameUrl": "networks",
+                "image": "./assets/committees-icons/networks.png"
+            },
+            {
+                "name": "Databases",
+                "nameUrl": "databases",
+                "image": "./assets/committees-icons/databases.png"
+            },
+            {
+                "name": "Cyber security",
+                "nameUrl": "cyber-security",
+                "image": "./assets/committees-icons/cyber-security.png"
+            }
+        ]
+    },
+    {
+        "sectionTitle": "Developers",
+        "committees": [
+            {
+                "name": "Front-end",
+                "nameUrl": "front-end",
+                "image": "./assets/committees-icons/front.png"
+            },
+            {
+                "name": "Back-end",
+                "nameUrl": "back-end",
+                "image": "./assets/committees-icons/back.png"
+            },
+            {
+                "name": "Flutter",
+                "nameUrl": "flutter",
+                "image": "./assets/committees-icons/flutter.png"
+            },
+            {
+                "name": "UI/UX",
+                "nameUrl": "ui-ux",
+                "image": "./assets/committees-icons/ui.png"
+            }
+        ]
+    }
+]
